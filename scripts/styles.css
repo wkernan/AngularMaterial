@@ -1,0 +1,28 @@
+.md-button {
+	padding-top: 10px;
+}
+
+.md-toolbar-tools {
+	font-size: 24px;
+}
+
+md-list-item img {
+	height: 150px;
+	margin: 35px;
+}
+
+.md-tab {
+	font-size: 20px;
+	padding-top: 0;
+	padding-bottom: 0;
+}
+
+#search {
+	margin-top: 30px;
+}
+
+.full-height {
+    height: -moz-calc(100% - 112px); 
+    height: -webkit-calc(100% - 112px);
+    height: calc(100% - 112px);
+}
